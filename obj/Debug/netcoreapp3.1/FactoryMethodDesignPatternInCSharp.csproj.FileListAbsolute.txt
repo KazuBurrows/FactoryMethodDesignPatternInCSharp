@@ -1,0 +1,13 @@
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.exe
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.deps.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.runtimeconfig.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.runtimeconfig.dev.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.csprojAssemblyReference.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.AssemblyInfoInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.AssemblyInfo.cs
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryMethodDesignPatternInCSharp\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.genruntimeconfig.cache
